@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "kimatmilao",
+    "slug": "kimatmilao",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "android": {
+      "package": "com.kimatmilao.kimatmilao"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.kimatmilao.kimatmilao"
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/logo.png",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
